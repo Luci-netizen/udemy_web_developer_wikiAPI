@@ -2,4 +2,5 @@ package-lock.json
 package.json
 
 *.swp
+.DS_Store
 
